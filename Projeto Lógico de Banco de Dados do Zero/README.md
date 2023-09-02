@@ -2,7 +2,7 @@
 
 Este é um projeto lógico de banco de dados para uma oficina mecânica. Ele descreve as tabelas, relacionamentos e dados essenciais para o funcionamento de uma oficina mecânica fictícia.  Com base no esquema:  
 
-![ProjetoLogicodeBancodeDadosdoZero]()
+![ProjetoLogicodeBancodeDadosdoZero](https://github.com/devbrunnolima/DioiFoodCienciadeDados/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados%20do%20Zero/ProjetoLogicodeBancodeDadosdoZero.JPG)
 
 ## Entidades Essenciais
 
