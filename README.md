@@ -18,9 +18,6 @@ Se você deseja entrar em contato comigo para discussões, colaborações ou opo
 Obrigado por explorar meu portfólio de Ciência de Dados! Espero que você aproveite a jornada por esses projetos e que eles demonstrem meu compromisso e paixão pelo campo da Ciência de Dados.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devbrunnolima&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ---
 
 # Detalhes do bootcamp
