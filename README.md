@@ -13,9 +13,13 @@ O Bootcamp Potência Tech é uma iniciativa inovadora promovida pelo iFood, dest
 Sinta-se à vontade para navegar pelos projetos neste repositório. Cada projeto está organizado em seu próprio diretório. Se você tiver alguma pergunta, feedback ou oportunidades de colaboração, não hesite em entrar em contato.
 
 ## Contato:
-Se você deseja entrar em contato comigo para discussões, colaborações ou oportunidades profissionais, pode me encontrar no LinkedIn [https://www.linkedin.com/in/devbrunno-lima/] ou enviar um e-mail para [devbrunnolima@gmail.com].
+Se você deseja entrar em contato comigo para discussões, colaborações ou oportunidades profissionais, pode me encontrar no [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/devbrunno-lima/)ou enviar um e-mail para [devbrunnolima@gmail.com].
 
 Obrigado por explorar meu portfólio de Ciência de Dados! Espero que você aproveite a jornada por esses projetos e que eles demonstrem meu compromisso e paixão pelo campo da Ciência de Dados.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devbrunnolima&theme=dracula&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
 
