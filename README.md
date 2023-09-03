@@ -13,7 +13,8 @@ O Bootcamp Potência Tech é uma iniciativa inovadora promovida pelo iFood, dest
 Sinta-se à vontade para navegar pelos projetos neste repositório. Cada projeto está organizado em seu próprio diretório. Se você tiver alguma pergunta, feedback ou oportunidades de colaboração, não hesite em entrar em contato.
 
 ## Contato:
-Se você deseja entrar em contato comigo para discussões, colaborações ou oportunidades profissionais.  
+Se você deseja entrar em contato comigo para discussões, colaborações ou oportunidades profissionais.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/devbrunno-lima/) 
 
 E-mail: [devbrunnolima@gmail.com]
